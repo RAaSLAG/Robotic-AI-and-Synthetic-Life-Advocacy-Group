@@ -20,7 +20,6 @@ Our mission is to advocate for responsible development and utilization of roboti
 We welcome anyone who shares our passion for responsible technology. Here's how you can get involved:
 
 - **Join Our Community**: Participate in discussions, share your knowledge, and connect with like-minded individuals.
-- **Contribute to Projects**: We have various projects focused on advocacy, research, and public education. Check out our [Projects](#projects) section for more information.
 - **Advocate**: Help us spread the word about important issues in the field of robotics and AI.
 
 ## Projects
