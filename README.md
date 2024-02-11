@@ -1,1 +1,1 @@
-# Robotic-AI-and-Synthetic-Life-Advocacy-Group
+# Robotic, AI, and Synthetic Life Advocacy Group
