@@ -33,7 +33,8 @@ Our projects range from public awareness campaigns to research initiatives. Some
 We encourage contributions from anyone interested in advancing the cause of ethical technology.
 
 ## Contact Us
-For more information, questions, or to get involved, please contact us at [email@example.com](mailto:email@example.com). Follow us on [Twitter](https://twitter.com/RAaSLAG) for updates and news.
+<!--- For more information, questions, or to get involved, please contact us at [email@example.com](mailto:email@example.com). --> 
+Follow us on [Twitter](https://twitter.com/RAaSLAG) for updates and news.
 
 ---
 Join us in shaping the future of technology in a way that respects both human and synthetic life.
